@@ -3,8 +3,8 @@
 Project Title: Online Order Processing automation
 Project Summary:  Project contain feature below
 
-Mobile App
-Customer Portal App
-Courier Portal App
-Agent Portal App
-Central Administration Panel & Accounting
+1. Mobile App
+2. Customer Portal App
+3. Courier Portal App
+4. Agent Portal App
+5. Central Administration Panel & Accounting
