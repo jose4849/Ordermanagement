@@ -3,7 +3,9 @@
 Project Title: Online Order Processing automation
 Project Summary:  Project contain feature below
 
-1. Users Management
-2. Online requisition system
-3. Inventory control
+1	Mobile App
+2	Customer Portal App
+3	Courier Portal App
+4	Agent Portal App
+5	Central Administration Panel & Accounting
 
